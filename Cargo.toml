@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/QuackHack-McBlindy/es8311"
 readme = "README.md"
 keywords = ["esp-hal", "embedded", "esp32"]
-categories = ["development-tools::embedded"]
+categories = ["embedded", "network-programming"]
 edition = "2024"
 
 [dependencies]
